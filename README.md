@@ -12,4 +12,4 @@ gera um gif do gráfico de pontos da n°-ésima iterada da função (alpha)x(1-x
 
 - pr    = (int)      n° de pontos para calcular entre 0 e 1
 
-- up_s  = (int)      upscale do gif final (3 é hd)
+- dpi  = (int)      upscale do gif final (3 é hd)
